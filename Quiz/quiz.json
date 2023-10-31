@@ -1,0 +1,211 @@
+[{
+  "categorie": "litterature",
+  "theme": "Maxime Chattam",
+  "difficulte": "débutant",
+  "question": "Chez quel éditeur Maxime Chattam a-t-il publié 'Les Arcanes du chaos' en 2006 ?",
+  "reponse_correcte": "Albin Michel",
+  "autres_choix": ["Michel Lafon","Albin Michel", "France Loisirs", "Gallimard"]
+}, {
+  "categorie": "celebrites",
+  "theme": "Actu people : mars 2017",
+  "difficulte": "débutant",
+  "question": "Quelle star de télé-réalité s'est fait dé-tatouer la poitrine en mars 2017 ?",
+  "reponse_correcte": "Nabilla",
+  "autres_choix": ["Loana", "Caroline Receveur","Nabilla","Myriam Abel" ]
+}, {
+  "categorie": "sciences",
+  "theme": "Alan Turing",
+  "difficulte": "expert",
+  "question": "Depuis quelle année le prix Turing est-il annuellement décerné ?",
+  "reponse_correcte": "1966",
+  "autres_choix": ["1976", "1986","1966", "1996"]
+}, {
+  "categorie": "adultes",
+  "theme": "Playboy",
+  "difficulte": "confirmé",
+  "question": "En France, quelle est la périodicité du magazine 'Playboy' depuis 2016 ?",
+  "reponse_correcte": "Trimestrielle",
+  "autres_choix": ["Trimestrielle", "Bimestrielle", "Hebdomadaire","Mensuelle"]
+}, {
+  "categorie": "celebrites",
+  "theme": "Actu people : janvier 2017",
+  "difficulte": "débutant",
+  "question": "Qui a été critiquée pour s'être endormie sur un sac Louis Vuitton aux Enfoirés ?",
+  "reponse_correcte": "Jenifer",
+  "autres_choix": ["Lorie","Jenifer", "Lââm", "Zazie"]
+}, {
+  "categorie": "adultes",
+  "theme": "Jenna Jameson",
+  "difficulte": "débutant",
+  "question": "Par quelle importante société de production les films de Club Jenna étaient -ils distribués sur le marché ?",
+  "reponse_correcte": "Vivid",
+  "autres_choix": ["Magmafilm", "Cinemagic","Vivid", "Abbywinters"]
+}, {
+  "categorie": "histoire",
+  "theme": "Histoire de France",
+  "difficulte": "confirmé",
+  "question": "Quel corsaire malouin s'est évadé d'Angleterre et a rejoint St-Malo à la rame ?",
+  "reponse_correcte": "Jean Bart",
+  "autres_choix": ["Jean Bernanos", "Nicolas Surcouf","Jean Bart", "Philippe Bequel"]
+}, {
+  "categorie": "monde",
+  "theme": "Italie",
+  "difficulte": "confirmé",
+  "question": "Quelle actrice italienne a incarné le « sex-symbol » aux lendemains de la guerre ?",
+  "reponse_correcte": "Gina Lollobrigida",
+  "autres_choix": ["Gina Lollobrigida","Isabella Rossellini", "Monica Bellucci", "Valentina Cervi"]
+}, {
+  "categorie": "sports",
+  "theme": "Sports collectifs",
+  "difficulte": "expert",
+  "question": "Quel sport souvent assimilé au volley-ball se pratique en plein air ?",
+  "reponse_correcte": "Fistball",
+  "autres_choix": ["Ultimate","Fistball","Water-polo", "Roller derby" ]
+}, {
+  "categorie": "celebrites",
+  "theme": "Actu people : janvier 2015",
+  "difficulte": "expert",
+  "question": "Quelle actrice a déclaré en janvier 2015 : « Se laver tous les jours c'est un truc de blanc » ?",
+  "reponse_correcte": "Naya Rivera",
+  "autres_choix": ["Jane Lynch","Naya Rivera","Dianna Agron",  "Lea Michele"]
+}, {
+  "categorie": "litterature",
+  "theme": "Auteurs classiques",
+  "difficulte": "expert",
+  "question": "Quel écrivain irlandais a vu son livre 'Ulysse' jugé « matière obscène » ?",
+  "reponse_correcte": "James Joyce",
+  "autres_choix": ["James Joyce","Mat Coward", "Graham Greene", "Chris Beckett"]
+}, {
+  "categorie": "culture",
+  "theme": "Constructeurs automobiles",
+  "difficulte": "expert",
+  "question": "Quelle compagnie d'automobiles possède un modèle appelé Forester ?",
+  "reponse_correcte": "Subaru",
+  "autres_choix": ["Toyota", "Hyundai", "Ford","Subaru"]
+}, {
+  "categorie": "quotidien",
+  "theme": "Chocolat",
+  "difficulte": "expert",
+  "question": "Quel explorateur a rapporté le cacao en Europe en 1528 ?",
+  "reponse_correcte": "Cortés",
+  "autres_choix": ["Cortés","Christophe Colomb", "Charcot", "Foucauld"]
+}, {
+  "categorie": "quotidien",
+  "theme": "Céramique et poterie",
+  "difficulte": "expert",
+  "question": "Quel architecte est connu pour son vitrage architectural en terre cuite ?",
+  "reponse_correcte": "Louis Sullivan",
+  "autres_choix": ["Victor Bourgeois","Louis Sullivan", "Jean Welz", "Tony Garnier"]
+}, {
+  "categorie": "gastronomie",
+  "theme": "Sucre",
+  "difficulte": "débutant",
+  "question": "Lequel de ces termes ne désigne pas un glucide au pouvoir sucrant ?",
+  "reponse_correcte": "Halitose",
+  "autres_choix": ["Glucose","Halitose","Fructose",  "Maltose"]
+}, {
+  "categorie": "celebrites",
+  "theme": "Actu people : janvier 2018",
+  "difficulte": "débutant",
+  "question": "Qui a été élue le 13 janvier en France Miss Prestige National 2018 ?",
+  "reponse_correcte": "Charlotte Depaepe",
+  "autres_choix": ["Charlotte Depaepe","Cécile Bègue", "Émilie Secret", "Margaux Deroy"]
+}, {
+  "categorie": "culture",
+  "theme": "Culture générale 2",
+  "difficulte": "débutant",
+  "question": "Avant de devenir chevalier, quel est le rang pour un apprenti Jedi ?",
+  "reponse_correcte": "Padawan",
+  "autres_choix": ["Padawan","Novice", "Jawas", "Hutts"]
+}, {
+  "categorie": "tourisme",
+  "theme": "Monuments du monde",
+  "difficulte": "confirmé",
+  "question": "Aux États-Unis, quel célèbre bâtiment possède une forme de plan particulière ?",
+  "reponse_correcte": "Pentagone",
+  "autres_choix": ["Kirkbride","Pentagone", "Graceland", "Pickfair"]
+}, {
+  "categorie": "sciences",
+  "theme": "Trouvez le nombre",
+  "difficulte": "débutant",
+  "question": "Combien de personnes forment le groupe humoristique français Les Inconnus ?",
+  "reponse_correcte": "3",
+  "autres_choix": ["4", "5","3", "6"]
+}, {
+  "categorie": "sports",
+  "theme": "Ironman",
+  "difficulte": "débutant",
+  "question": "Quelle compétition dérivée de l'Ironman est aussi appelée « Half Ironman » ?",
+  "reponse_correcte": "Ironman 70.3",
+  "autres_choix": ["Hawaï KPR", "Embrunman", "Roth Challenge","Ironman 70.3"]
+}, {
+  "categorie": "litterature",
+  "theme": "Game of Thrones",
+  "difficulte": "expert",
+  "question": "Qui est Craster dans la saga 'Game of Thrones' ?",
+  "reponse_correcte": "Un sauvageon",
+  "autres_choix": ["Un sauvageon","Un garde de Nuit", "Un roi", "Un dresseur"]
+}, {
+  "categorie": "television",
+  "theme": "Jeunesse et dessins animés",
+  "difficulte": "débutant",
+  "question": "Quel animal est Capucin, le petit compagnon de Candy ?",
+  "reponse_correcte": "Raton laveur",
+  "autres_choix": ["Lapin","Raton laveur","Hamster", "Chat" ]
+}, {
+  "categorie": "nature",
+  "theme": "Volcans en activité",
+  "difficulte": "confirmé",
+  "question": "Quel volcan est situé à cheval sur la frontière entre la Bolivie et le Chili ?",
+  "reponse_correcte": "Olca",
+  "autres_choix": ["Pago","Olca","Surtla", "Mat Ala" ]
+}, {
+  "categorie": "sciences",
+  "theme": "Inventions",
+  "difficulte": "confirmé",
+  "question": "Quel terme fut inventé en 1955 par le philologue français Jacques Perret ?",
+  "reponse_correcte": "Ordinateur",
+  "autres_choix": ["Ordinateur","Transistor", "Imprimante", "Ampoule"]
+}, {
+  "categorie": "television",
+  "theme": "Breaking Bad",
+  "difficulte": "débutant",
+  "question": "Quelle drogue est fabriquée et vendue par Walter White dans la série 'Breaking Bad' ?",
+  "reponse_correcte": "Méthamphétamine",
+  "autres_choix": ["Méthamphétamine","Héroïne", "Cocaïne", "Kétamine"]
+}, {
+  "categorie": "sports",
+  "theme": "Sports d'hiver",
+  "difficulte": "expert",
+  "question": "Dans quelle station française peut-on skier sur une piste longue de 22 km ?",
+  "reponse_correcte": "Alpe d'Huez",
+  "autres_choix": ["Chamrousse", "Autrans","Alpe d'Huez", "Grenoble"]
+}, {
+  "categorie": "quotidien",
+  "theme": "Moyens de transport",
+  "difficulte": "confirmé",
+  "question": "Quelles seront les lettres qu'abordera l'arrière d'une voiture immatriculée en Suisse ?",
+  "reponse_correcte": "CH",
+  "autres_choix": ["DK","CH","SU", "SE" ]
+}, {
+  "categorie": "monde",
+  "theme": "Italie",
+  "difficulte": "débutant",
+  "question": "Quelles pâtes alimentaires italiennes farcies sont façonnées en petites couronnes ?",
+  "reponse_correcte": "Tortellini",
+  "autres_choix": ["Gnocchi", "Capellini", "Tortellini","Fusilli"]
+}, {
+  "categorie": "culture",
+  "theme": "Culture générale 4",
+  "difficulte": "confirmé",
+  "question": "Quelle était la nationalité du compositeur Piotr Ilitch Tchaïkovski ?",
+  "reponse_correcte": "Russe",
+  "autres_choix": ["Roumaine","Russe","Autrichienne",  "Polonaise"]
+}, {
+  "categorie": "television",
+  "theme": "Bob l'éponge",
+  "difficulte": "confirmé",
+  "question": "À quel animateur et ex-biologiste doit-on la série télévisée 'Bob l'éponge' ?",
+  "reponse_correcte": "Stephen Hillenburg",
+  "autres_choix": ["Stephen Hillenburg","Scott MacDonald", "Ash Brannon", "Chris Sanders"]
+}]

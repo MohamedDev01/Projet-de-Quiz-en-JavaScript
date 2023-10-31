@@ -1,0 +1,119 @@
+main{
+    max-width: 100vw;
+    height: 98vh;
+    max-height: 98vh;
+    padding: 15px;
+    margin-top: 5px;
+
+}
+                            /*palier*/
+.palier{
+    width: 15vw;
+    height: 95vh;
+    padding: 20px ;
+    margin: 15px;
+    border: 1px solid black;
+}
+
+.palier > h2{
+    font-family: Algerian;
+    margin-bottom: 100px;
+}
+
+.billet div{
+    margin: 10px;
+    font-size: 2rem;
+    font-weight: bold;
+    border-radius: 15px;
+    box-shadow: 5px 4px 30px 1px rgba(128, 128, 128, 0.65);
+
+}
+
+/*partie pricippale*/
+
+#jeux{
+    display: none;
+}
+
+.principal{
+    width: 80vw;
+    height: 95vh;
+    max-height: 95vh;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.image{
+    border: 1px solid black;
+    height: 55vh;
+    max-height: 55vh;
+    background-image: url("images/3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100vw;
+}
+
+.play{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    background-color: rgb(255, 255, 255);
+}
+
+.question{
+    padding: 2vw;
+    background-color: rgba(0, 0, 0, 0.89);
+    color: white;
+    font-size: 5rem;
+    font-family: "Agency FB";
+    height: 55vh;
+}
+
+.question > span{
+    position: relative;
+    top: 5vh;
+}
+
+.reponses{
+    margin-top: 10px;
+    height: 25vh;
+    max-height: 25vh;
+    border: 1px solid black;
+
+}
+
+.proposition{
+    border: 2px dashed black;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 20px;
+    width: 34vw;
+}
+
+.timer{
+    position: fixed;
+    left: 56vw;
+    top: 76vh;
+    width: 60px;
+    height: 60px;
+    font-size: 2rem;
+    font-family: Algerian;
+    box-shadow: 5px 4px 30px 1px rgba(128, 128, 128, 0.65);
+}
+
+.proposition:hover{
+    background-color: rgba(128, 128, 128, 0.49);
+}
+
+.reponse{
+    font-family: Algerian;
+    font-size: 2rem;
+    margin: 5px;
+    color: black;
+}
+
+.reponse{
+    align-items: center;
+    font-size: 1.3rem;
+
+}

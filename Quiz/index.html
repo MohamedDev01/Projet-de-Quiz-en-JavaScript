@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <link rel="stylesheet" href="bootstrap-icons.css">
+    <link rel="stylesheet" href="all.min.css">
+    <script defer="defer" src="script.js"></script>
+    <title>Accueil</title>
+</head>
+<body>
+    <main id="form">
+        <input class="form-control mb-2" type="file" name="inputFile" id="fichier">
+        <button id="btnSubmit" class="btn btn-outline-primary">Valider</button>
+    </main>
+    <main id="jeux">
+        <main  class=" d-flex align-items-center">
+            <section class="palier">
+                <h2 class="d-flex justify-content-around mb-5 text-uppercase fw-bold fst-italic">Cagnotte</h2>
+                <div class="billet ">
+                    <div class="palierItem bg bg-success my-4 d-flex align-items-center justify-content-around">0 CFA</div><br />
+                    <div class="palierItem my-4 d-none align-items-center justify-content-around">10.000 CFA</div><br />
+                    <div class="palierItem my-4 d-none align-items-center justify-content-around">10.000 CFA</div><br />
+                    <div class="palierItem my-4 d-none align-items-center justify-content-around">10.000 CFA</div><br />
+                    <div class="palierItem my-4 d-none align-items-center justify-content-around">10.000 CFA</div><br />
+                    <div class="palierItem my-4 d-none align-items-center justify-content-around">10.000 CFA</div><br />
+                </div>
+            </section>
+            <section class="principal">
+                <section class="image">
+                    <div class="question">
+                        <span class="textQuestion d-flex align-items-center justify-content-around"></span>
+                    </div>
+                </section>
+                <section>
+                    <button class="nextQuestion btn btn-outline-warning m-2">Question Suivante</button>
+                    <audio class="audio d-none" src="audio/bravo.mp3" controls></audio>
+                    <audio class="audio2 d-none" src="audio/oupss.mp3" controls></audio>
+
+                </section>
+                <section class="reponses">
+                    <button class="proposition d-flex align-items-center justify-content-around float-start">
+                        <div class="reponse d-flex align-items-center"></div>
+                    </button>
+                    <button class="proposition d-flex align-items-center justify-content-around float-end">
+                        <div class="reponse d-flex align-items-center"></div>
+                    </button>
+                    <div class="timer rounded-circle d-flex align-items-center justify-content-around"></div>
+                    <button class="proposition d-flex align-items-center justify-content-around float-start">
+                        </span> <div class="reponse d-flex align-items-center"></div>
+                    </button>
+                    <button class="proposition d-flex align-items-center justify-content-around float-end">
+                        <div class="reponse d-flex align-items-center"></div>
+                    </button>
+                </section>
+            </section>
+        </main>
+
+    </main>
+</body>
+</html>
